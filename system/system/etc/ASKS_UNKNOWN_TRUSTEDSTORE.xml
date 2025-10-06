@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<VERSION value="20231024"/>
+<LIST>
+    <package value="com.skt.skaf.A000Z00040">
+        <CERT name="77e88a40cb954b2b409bd54199106918b599c116cd51d31a2c7eb7743f56e33a"/>
+    </package>
+    <package value="com.kt.olleh.storefront">
+        <CERT name="6ddeb59a607b3a029af8879bedd0cc11256feda42c7af9f8e61bae55dea7b599"/>
+    </package>
+    <package value="com.lguplus.appstore">
+        <CERT name="563028dc236b4e2c818bbd9080255d44efe094f5aef23287988c20b3f1acf7f3"/>
+    </package>
+    <package value="ALL">
+        <CERT name="34df0e7a9f1cf1892e45c056b4973cd81ccf148a4050d11aea4ac5a65f900a42"/>
+        <CERT name="0a012131b1bdf9e80ef97d37f3b48362be363a464c8445ecf83627ebe8493a1e"/>
+        <CERT name="b92109b59095955ccaaf5ecbcf0f153ec9640a4658c101667ad96b7e499a4092"/>
+        <CERT name="3330d41946adf55289d57bfc14198fdabb6ce9ffb92b84452d53e6c57c3a8296"/>
+    </package>
+    <package value="PrePackageInstaller">
+        <CERT name="null"/>
+    </package>
+    <package value="PERMISSION">
+        <CERT name="android.permission.INSTALL_PACKAGES"/>
+    </package>
+    <package value="android.devicepolicy.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.security.cts">
+        <CERT name="45e7ed496de0e6abad21854e1431e6bfb44a43dd1afe5d15a48d8d68291b2ea3"/>
+    </package>
+    <package value="com.android.tests.atomicinstall">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.content.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.cts.deviceowner">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.packageinstaller.admin.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.util.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.tests.stagedinstall">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.tests.silentupdate">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.packageinstaller.install.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.packageinstaller.packagescheme.cts.withvisibility">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.scopedstorage.cts.device">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.google.android.stagedinstall.gts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.cts.packagemanager.verify.domain.device.multiuser">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.permissionpolicy.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.appenumeration.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.cts.packageinstaller">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.os.lib.app">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.permission3.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.camera.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.tests.securefrpinstall">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.android.cts.rollback.host.app">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.mediaprovidertranscode.cts">
+        <CERT name="465983f7791f2abeb43ea2cbdc7f21a8260b72bc08a55c839fc1a43bc741a81e"/>
+    </package>
+    <package value="android.cts.install">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.hardware.camera2.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.packageinstaller.packagescheme.cts.withoutvisibility">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="com.google.android.apps.work.clouddpc">
+        <CERT name="8027d96fac7948a04b4cd0fd87f3abd77aed0d50c82a153cadbf6f37938ce23b"/>
+    </package>
+    <package value="com.android.cts.verifier">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+    <package value="android.permissionmultiuser.cts">
+        <CERT name="a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc"/>
+    </package>
+</LIST>
